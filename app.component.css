@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+  }
+  
+  .count {
+    width: 100px;
+    background: gray;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 0 auto 30px;
+    text-align: center;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px;
+    color: #fff;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: gray;
+    transition: border 0.3s ease;
+  }
+  
+  .btn:hover {
+    border: 1px solid #fff;
+  }
+  
+  .bg-red {
+    background-color: red;
+  }
+  
+  .bg-black {
+    background-color: black;
+  }
+  
+  .bg-green {
+    background-color: green;
+  }
+  
